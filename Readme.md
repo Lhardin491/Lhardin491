@@ -1,4 +1,4 @@
-# Howdy, I'm Luke Hardin
+![alt README banner](https://github.com/lhardin491/lhardin491/blob/master/assets/banner.png)
 
 ## Full Stack Software Engineer
 
