@@ -9,6 +9,7 @@ Currently working at Automatize Logistics.
 - Music fanatic 🎶
 - Avid concert goer 🎸
 - Texan 🤠
+- Constantly loosing to [@addonovan](https://github.com/addonovan/) at typeracer... 😔
 
 <div align="center" style="padding: 25px 0;">
   <a href="https://www.linkedin.com/in/luke-hardin-515280162/" style="padding: 8px; width: 24px; height: 24px;">
